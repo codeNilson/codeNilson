@@ -2,9 +2,9 @@
 
 <p align="left"> 
   Olá, me chamo Denilson! Descobri o mundo da programação e me apaixonei, o resto vai ser história.<br>
-  Atualmente estou cursando Análise e Desenvolvimento de Sistemas, porém estudando bastante "por fora", através de cursos, para aprender o essencial.<br>
+  <br>Atualmente estou cursando Análise e Desenvolvimento de Sistemas, porém estudando bastante "por fora", através de cursos, para aprender o essencial.<br>
   Ainda não decidi em qual área me especializar, mas a principio pensando em me tornar um dev full stack ou partir para o desenvolvimento de sistemas, ambas áreas que gostei bastante.<br>
-  Sou muito dedicado e estou VIVENDO 24 horas isso, realmente apaixonado por tudo o que estou vendo e devorando todo conhecimento. Ansioso para trabalhar com todos aqui.
+  <br>Sou muito dedicado e estou VIVENDO 24 horas isso, realmente apaixonado por tudo o que estou vendo e devorando todo conhecimento. Ansioso para trabalhar com todos aqui.
 </p>
 
 <p align="left">
