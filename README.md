@@ -1,22 +1,22 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, me chamo Denilson! Descobri o mundo da programação e me apaixonei, o resto vai ser história.<br>
-  <br>Atualmente estou cursando Análise e Desenvolvimento de Sistemas, porém estudando bastante "por fora", através de cursos, para aprender o essencial.<br>
-  Ainda não decidi em qual área me especializar, mas a principio pensando em me tornar um dev full stack ou partir para o desenvolvimento de sistemas, ambas áreas que gostei bastante.<br>
-  <br>Sou muito dedicado e estou VIVENDO 24 horas isso, realmente apaixonado por tudo o que estou vendo e devorando todo conhecimento. Ansioso para trabalhar com todos aqui.
+  Olá, mundo!<br>
+  Eu me chamo Denilson Silva, um entusiasta recém-chegado ao mundo da programação e completamente encantado com tudo o que tenho aprendido.<br>
+  <br>Atualmente, estou imerso em meu curso de Análise e Desenvolvimento de Sistemas, mas não me contento apenas com as aulas formais. Estou constantemente buscando conhecimento extra por meio de cursos e recursos online, determinado a absorver o máximo de informações possível.<br>
+  <br>Me considero uma pessoa extremamente dedicada, e este mundo da programação tem sido meu foco principal. Estou verdadeiramente imerso, absorvendo cada novo conceito e habilidade com entusiasmo e vigor. Mal posso esperar para colaborar e crescer ao lado de todos vocês.<br>
 </p>
 
 <p align="left">
-  🦄 Linguagens: <code><img height="32" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Other-python-icon.png" alt="PYTHON"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+  🦄 Skills: <br><img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img height="32" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <code><img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" alt="DJANGO"/></code>
-  <code><img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="GIT"/></code>
+  💼 Ferramentas: <br><img height="25" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="DJANGO"/></code>
+  <img height="25" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/>
 </p>
 
 <p align="left">
