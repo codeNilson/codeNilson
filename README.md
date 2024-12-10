@@ -6,8 +6,6 @@
   <br>Com uma mentalidade voltada para aprendizado contínuo, busco sempre me atualizar e explorar novas tecnologias, transformando desafios em oportunidades de crescimento. Meu foco está em construir soluções eficientes e de qualidade, colaborando para o sucesso dos projetos em que estou envolvido. Estou entusiasmado para contribuir em equipes inovadoras e aprender cada vez mais.<br>
 </p>
 
----
-
 ### 🧑‍💻 **Skills**  
 <p align="left">
   <img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -16,8 +14,6 @@
   <img height="25" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
----
-
 ### 💼 **Ferramentas**  
 <p align="left">
   <img height="25" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="DJANGO"/></code>
@@ -25,8 +21,6 @@
   <img height="25" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DOCKER"/>
   <img height="25" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BOOTSTRAP"/>
 </p>
-
----
 
 ### 📬 **Entre em contato comigo**  
 <p align="left">
