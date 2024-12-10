@@ -1,30 +1,34 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, mundo!<br>
-  Eu me chamo Denilson Silva, um entusiasta recém-chegado ao mundo da programação e completamente encantado com tudo o que tenho aprendido.<br>
-  <br>Atualmente, estou imerso em meu curso de Análise e Desenvolvimento de Sistemas, mas não me contento apenas com as aulas formais. Estou constantemente buscando conhecimento extra por meio de cursos e recursos online, determinado a absorver o máximo de informações possível.<br>
-  <br>Me considero uma pessoa extremamente dedicada, e este mundo da programação tem sido meu foco principal. Estou verdadeiramente imerso, absorvendo cada novo conceito e habilidade com entusiasmo e vigor. Mal posso esperar para colaborar e crescer ao lado de todos vocês.<br>
+  👋 Olá! Eu sou o Denilson Silva, um profissional dedicado e apaixonado por tecnologia e programação. <br>
+  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e complementando minha formação com cursos e projetos paralelos que me desafiam e expandem minhas habilidades.<br>
+  <br>Com uma mentalidade voltada para aprendizado contínuo, busco sempre me atualizar e explorar novas tecnologias, transformando desafios em oportunidades de crescimento. Meu foco está em construir soluções eficientes e de qualidade, colaborando para o sucesso dos projetos em que estou envolvido. Estou entusiasmado para contribuir em equipes inovadoras e aprender cada vez mais.<br>
 </p>
 
+---
+
+### 🧑‍💻 **Skills**  
 <p align="left">
-  🦄 Skills: <br><img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img height="32" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img height="25" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
+---
+
+### 💼 **Ferramentas**  
 <p align="left">
-  💼 Ferramentas: <br><img height="25" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="DJANGO"/></code>
+  <img height="25" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="DJANGO"/></code>
   <img height="25" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/>
   <img height="25" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DOCKER"/>
   <img height="25" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BOOTSTRAP"/>
 </p>
 
-<p align="left">
-  💌 Você pode entrar em contato comigo através das seguintes redes sociais: ⤵️
-</p>
+---
 
+### 📬 **Entre em contato comigo**  
 <p align="left">
   <a href="mailto:fcodenilson@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
