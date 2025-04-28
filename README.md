@@ -1,11 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="[...]" />
 
-👋 **Olá! Eu sou o Denilson Silva**, um desenvolvedor apaixonado por tecnologia, dedicado a criar software de qualidade utilizando as melhores práticas de desenvolvimento. Com experiência em **Java** e **Python**, busco constantemente aprimorar minhas habilidades e oferecer soluções robustas e eficientes.
+👋 **Olá! Me chamo Denilson Silva**, um desenvolvedor apaixonado por tecnologia e desenvolvimento, dedicado a criar softwares de qualidade seguindo as melhores práticas de desenvolvimento. Com experiência em **Java** e **Python**, busco constantemente aprimorar minhas habilidades e oferecer soluções eficazes e eficientes.
 
 💡 Tenho conhecimentos sólidos em:
 - **Contêineres com Docker** e sua aplicação prática para simplificar ambientes de desenvolvimento e produção.
+- **Criação de APIs** utilizando **Spring** e **Django Rest Framework**, entregando integrações seguras e escaláveis.
+- Desenvolvimento de **aplicações full stack** com **Django**, proporcionando soluções completas e bem estruturadas.
 - **Testes de Software**, garantindo a confiabilidade e qualidade do código.
-- **APIs** (desenvolvimento e consumo) para integração de sistemas modernos.
 - **Deploy de Aplicativos**, com foco em **AWS**, aproveitando serviços na nuvem para alta disponibilidade e escalabilidade.
 - **Padrões de Design**, aplicando princípios de design de software para criar soluções sustentáveis e bem arquitetadas.
 
