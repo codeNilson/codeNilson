@@ -1,10 +1,17 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="[...]" />
 
-<p align="left"> 
-  👋 Olá! Eu sou o Denilson Silva, um profissional dedicado e apaixonado por tecnologia e programação. <br>
-  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e complementando minha formação com cursos e projetos paralelos que me desafiam e expandem minhas habilidades.<br>
-  <br>Com uma mentalidade voltada para aprendizado contínuo, busco sempre me atualizar e explorar novas tecnologias, transformando desafios em oportunidades de crescimento. Meu foco está em construir soluções eficientes e de qualidade, colaborando para o sucesso dos projetos em que estou envolvido. Estou entusiasmado para contribuir em equipes inovadoras e aprender cada vez mais.<br>
-</p>
+👋 **Olá! Eu sou o Denilson Silva**, um desenvolvedor apaixonado por tecnologia, dedicado a criar software de qualidade utilizando as melhores práticas de desenvolvimento. Com experiência em **Java** e **Python**, busco constantemente aprimorar minhas habilidades e oferecer soluções robustas e eficientes.
+
+💡 Tenho conhecimentos sólidos em:
+- **Contêineres com Docker** e sua aplicação prática para simplificar ambientes de desenvolvimento e produção.
+- **Testes de Software**, garantindo a confiabilidade e qualidade do código.
+- **APIs** (desenvolvimento e consumo) para integração de sistemas modernos.
+- **Deploy de Aplicativos**, com foco em **AWS**, aproveitando serviços na nuvem para alta disponibilidade e escalabilidade.
+- **Padrões de Design**, aplicando princípios de design de software para criar soluções sustentáveis e bem arquitetadas.
+
+🌱 Meu objetivo é criar software que não apenas funcione, mas que seja escalável, legível e aderente às melhores práticas do mercado. Estou sempre em busca de aprendizado contínuo, explorando novas tecnologias e ferramentas para evoluir como profissional.
+
+---
 
 ### 🧑‍💻 **Skills**  
 <p align="left">
@@ -15,6 +22,8 @@
   <img height="25" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
+---
+
 ### 💼 **Ferramentas**  
 <p align="left">
   <img height="25" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -24,6 +33,8 @@
   <img height="25" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BOOTSTRAP"/>
   <img height="25" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="BOOTSTRAP"/>
 </p>
+
+---
 
 ### 📬 **Entre em contato comigo**  
 <p align="left">
